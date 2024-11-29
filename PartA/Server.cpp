@@ -2,8 +2,8 @@
 Assignment 2 - CS5060: ACN
 Socket Programming
 
-Name     : Manan Bharatkumar Darji
-Roll No. : CS22MTECH14004
+Name     : K Saravanan
+Roll No. : CS23MTECH12007
 
 Question : 
 
